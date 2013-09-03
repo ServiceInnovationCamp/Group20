@@ -1,9 +1,13 @@
 Group20
 =======
-Project Name: iWitness
+Project Name
+--------------
+ iWitness
 
  
-Description: iWitness is a citizen journalism toolkit for Android platform. 
+Description: 
+--------------
+iWitness is a citizen journalism toolkit for Android platform. 
 
 
 Team : 
@@ -13,4 +17,4 @@ Team :
 	- Abu Ashraf Masnun (masnun@gmail.com)
 
 
-Copyright 2013, All Rights Reserved by the above three developers.
+Copyright 2013, All Rights Reserved.
